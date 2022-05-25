@@ -1,0 +1,3 @@
+Z:/javaProjects/ClionProjects/GunPark/cmake-build-debug/CMakeFiles/GunPark.dir
+Z:/javaProjects/ClionProjects/GunPark/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/javaProjects/ClionProjects/GunPark/cmake-build-debug/CMakeFiles/rebuild_cache.dir
